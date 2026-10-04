@@ -21,17 +21,15 @@
 ![](https://streak-stats.demolab.com/?user=kandhwayanushka-hue&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kandhwayanushka-hue&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://commitpulse.vercel.app/api/streak?user=kandhwayanushka-hue&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kandhwayanushka-hue&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kandhwayanushka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-kandhway-0b2463364)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/KandhwayAn87764)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/KandhwayAn87764)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BelieveeToAchievee)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmasanchitrishi@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kandhwayanushka@gmail.com)
 
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -94,9 +92,9 @@
 ## 🚀 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kandhwayanushka-hue/kandhwayanushka-hue/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kandhwayanushka-hue/kandhwayanushka-hue/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://github.com/kandhwayanushka-hue/kandhwayanushka-hue/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kandhwayanushka-hue/kandhwayanushka-hue/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kandhwayanushka-hue/kandhwayanushka-hue/output/snake-light.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/kandhwayanushka-hue/kandhwayanushka-hue/output/snake.svg">
 </picture>
 
 ## 🎯 When I'm not coding
@@ -107,7 +105,7 @@
 
 ## 📈 Activity Graph
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/kandhwayanushka-hue">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kandhwayanushka-hue&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
 
